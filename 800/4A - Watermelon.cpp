@@ -3,6 +3,8 @@
 // https://codeforces.com/problemset/problem/4/A
 using namespace std;
 
+
+// start 
 int main()
 {
   int w;
@@ -17,3 +19,4 @@ int main()
 
   return 0;
 }
+// end
